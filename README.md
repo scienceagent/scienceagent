@@ -1,38 +1,15 @@
 <h1 style="text-align:center"> My GitHub Stats</h1>
 <hr>
 
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 49.33%;
-  padding: 5px;
-}
-
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-
-  <div class="row">
-  <div class="column">
-    <img src="https://github-readme-stats.vercel.app/api?username=scienceagent&theme=tokyonight" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scienceagent&hide=javascript,css,scss,html&theme=tokyonight" style="width:100%">
-  </div>
-  </div>
-</div>
-
+<p align="left">
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=scienceagent&theme=tokyonight" />
+</p>
+<p align="center">
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scienceagent&hide=javascript,css,scss,html&theme=tokyonight" />
+</p>
 <p align="center">
   <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=scienceagent&theme=tokyonight" />
 </p>
-
 <hr>
 
 <h1 style="text-align:center;" >Connect with me:</h1>
