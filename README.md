@@ -1,7 +1,7 @@
 <h1 style="text-align:center"> My GitHub Stats</h1>
 <hr>
 
-<p align="left">
+<p align="center">
   <img align="" src="https://github-readme-stats.vercel.app/api?username=scienceagent&theme=tokyonight" />
 </p>
 <p align="center">
