@@ -14,11 +14,20 @@
 </p> 
 <hr>
 
-<h1 style="text-align:center;" >Connect with me:</h1>
+<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
-<p align="left">
-<a href="https://twitter.com/GRaevschi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/naewtone/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="mailto:grigore.raevschi@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.facebook.com/grigore.raevschi.8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
+
+<p align="center">
+<a href="mailto: grigore.raevschi@gmail.com">
+ <img src="https://img.shields.io/badge/-Gamil-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
+</a>
+<a href="https://www.facebook.com/grigore.raevschi.8/">
+ <img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
+</a>
+ <a href="https://twitter.com/GRaevschi">
+ <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
+</a>
+ <a href="https://www.instagram.com/naewtone/">
+ <img src="https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=instagram&logoColor=white&link=https://twitter.com/ritikhere307"/>
+</a>
 </p>
