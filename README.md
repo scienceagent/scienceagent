@@ -12,7 +12,6 @@
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=scienceagent&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
-<hr>
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
