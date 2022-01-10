@@ -25,7 +25,7 @@ $ whoami
 
 <p align="center">
 <a href="mailto: grigore.raevschi@gmail.com">
- <img src="https://img.shields.io/badge/-Gamil-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
+ <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
 </a>
 <a href="https://www.facebook.com/grigore.raevschi.8/">
  <img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
