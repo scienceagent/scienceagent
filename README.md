@@ -33,7 +33,7 @@ $ whoami
  <a href="https://twitter.com/GRaevschi">
  <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
 </a>
- <a href="https://www.instagram.com/naewtone/">
+ <a href="https://www.instagram.com/etozheawen/">
  <img src="https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=instagram&logoColor=white&link=https://twitter.com/ritikhere307"/>
 </a>
 </p>
