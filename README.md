@@ -12,7 +12,7 @@ $ whoami
 <br>
 
 <p align = "center">
-  <img  src = "[https://github-readme-stats.vercel.app/api?username=scienceagent&show_icons=true&theme=radical&line_height=27](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)">
+  <img  src = "https://github-readme-stats.vercel.app/api?scienceagent=anuraghazra&theme=dark&show_icons=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=scienceagent&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
