@@ -11,9 +11,9 @@ $ whoami
  
 <br>
 
-<p align = "center">
+<!-- <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=scienceagent&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
-</p>
+</p> -->
 
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=scienceagent&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
