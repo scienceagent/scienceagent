@@ -26,13 +26,4 @@ $ whoami
 <a href="mailto: grigore.raevschi@gmail.com">
  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
 </a>
-<a href="https://www.facebook.com/grigore.raevschi.8/">
- <img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
-</a>
- <a href="https://twitter.com/GRaevschi">
- <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
-</a>
- <a href="https://www.instagram.com/etozheawen/">
- <img src="https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=instagram&logoColor=white&link=https://twitter.com/ritikhere307"/>
-</a>
 </p>
